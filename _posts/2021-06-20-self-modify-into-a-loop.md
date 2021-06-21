@@ -2,7 +2,7 @@
 layout: post
 title:  "self-modify into a loop"
 date:   2021-06-20 16:59:58 +1000
-categories: site update
+categories: code
 ---
 This is a quick puzzler demonstration of code and data being the same in
 von Neumann architecture.
