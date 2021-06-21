@@ -12,7 +12,7 @@ internal policies, structure and politics.
 
 I think what is less known (or less discussed, at least) is the fact that you'd rarely be competing against the entire company, unless your project is one of their "core"
 niches such as video streaming services, search, actual physical cloud infrastructure or a
-substantial physical product requiring heavy capital.
+substantial physical product that requires heavy capital.
 
 You will likely be up against a small team of 6-12, responsible for a service/tool/product. Those people are not very motivated due to all the big company reasons. But the
 key here is that they are also small. On top of that, people on the inside rarely have
