@@ -18,4 +18,4 @@ You will likely be up against a small team of 6-12, responsible for a service/to
 key here is that they are also small. On top of that, people on the inside rarely have
 the career luxury of working on a single fancy thing. They typically have other projects, toil, oncalls, trainings, mandates, horisontals, verticals and managers to deal with, etc, etc.
 
-P.S. Having that, I'm unlikely to deliver shit, based on years of observing myself working for a big tech company. The silver (wouldn't call it a gold one) cage is hard to escape from.
+P.S. Having said that, I'm unlikely to deliver shit, based on years of observing myself working for a big tech company. The silver (wouldn't call it a gold one) cage is hard to escape from.
