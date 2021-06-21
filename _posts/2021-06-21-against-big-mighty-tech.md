@@ -10,7 +10,7 @@ It should actually be even less scary than we think to start a company or a proj
 A lot has be spoken and written about how the big tech is slow to iterate due to their
 internal policies, structure and politics.
 
-I think what is less known (or discussed, at least) is the fact that you'd rarely be competing against the entire company, unless your project is one of their "core"
+I think what is less known (or less discussed, at least) is the fact that you'd rarely be competing against the entire company, unless your project is one of their "core"
 niches such as video streaming services, search, actual physical cloud infrastructure or a
 substantial physical product requiring heavy capital.
 
