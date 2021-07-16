@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Against the big mighty tech"
+title:  "against the big mighty tech"
 date:   2021-06-21 11:05:00 +1000
 categories: work
 ---
